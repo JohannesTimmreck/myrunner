@@ -7,5 +7,5 @@ Art Sources:<br/>
   >Background: https://opengameart.org/content/3-parallax-backgrounds<br/>
   >Author: https://opengameart.org/users/mobile-game-graphics<br/>
   >Spikes: https://opengameart.org/content/bevouliin-free-game-obstacle-spikes<br/>
-  >Author: https://opengameart.org/users/bevouliincom
+  >Author: https://opengameart.org/users/bevouliincom<br/>
   >Font : https://www.dafont.com/fr/xxii-arabian-onenightstand.font
