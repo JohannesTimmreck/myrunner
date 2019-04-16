@@ -8,3 +8,4 @@ Art Sources:<br/>
   >Author: https://opengameart.org/users/mobile-game-graphics<br/>
   >Spikes: https://opengameart.org/content/bevouliin-free-game-obstacle-spikes<br/>
   >Author: https://opengameart.org/users/bevouliincom
+  >Font : https://www.dafont.com/fr/xxii-arabian-onenightstand.font
